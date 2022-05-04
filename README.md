@@ -1,8 +1,8 @@
-<h1>Hi, I'm Lynon! <br/><a href="">Programming</a>, <a href="">Networks</a>, <a href="">YouTuber</a></h1>
+<h1>Hi, I'm Lynon! <br/><a href="">Programming</a>, <a href="">Web Development/Design</a>, <a href="">YouTuber</a></h1>
 
 <h2> 🌱 I’m currently learning ... </h2>
-- <b><a href="https://wgu.udemy.com/course/100-days-of-code/learn/lecture/19279090#overview">Python Bootcamp</a>
-
+- <b><a href="https://wgu.udemy.com/course/100-days-of-code/learn/lecture/19279090#overview">Python Bootcamp</a><br>
+- <b><a href="">Web Development</a>
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
