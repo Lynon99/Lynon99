@@ -2,7 +2,9 @@
 
 <h2> 🌱 I’m currently learning ... </h2>
 - <b><a href="https://wgu.udemy.com/course/100-days-of-code/learn/lecture/19279090#overview">Python Bootcamp</a><br>
-- <b><a href="">Web Development</a>
+- <b>Web Development</br>
+- <b> IT certifications
+  
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
@@ -32,6 +34,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
