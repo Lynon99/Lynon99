@@ -42,5 +42,5 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: ...lynonsmith@gmail.com
 - ⚡ Fun fact: ...
-
+  </br>
 
