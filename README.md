@@ -26,14 +26,14 @@
 
 [<img align="left" alt="Lynonsmith | LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
   [linkedin]: https://www.linkedin.com/in/lynon-smith/
-<br>
-[<img align="left" alt="lynonsmith | Website width="24px" src="https://s3.amazonaws.com/lynonsmith.com/images/backgrounds/ProfilePic.jpg" >/][Website]
+
+[<img align="left" alt="lynonsmith | Website" width="24px" src="https://s3.amazonaws.com/lynonsmith.com/images/backgrounds/ProfilePic.jpg" >/][Website]
 
 [Website]: lynonsmith.com
-<br/>
+
   
   
-<!--
+
 
 - 🔭 I’m currently working on ...Bachelor's degree in IT at WGU
 - 🌱 I’m currently learning ...Python, technical support, system administration
@@ -42,4 +42,4 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: ...lynonsmith@gmail.com
 - ⚡ Fun fact: ...
--->
+
