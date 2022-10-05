@@ -36,13 +36,13 @@
 
 <br>
   </br>
-- 🔭 I’m currently working on ...Bachelor's degree in IT at WGU
-- 🌱 I’m currently learning ...Python, technical support, system administration
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...lynonsmith@gmail.com
-- ⚡ Fun fact: ...
+  <ul>- 🔭 I’m currently working on ...Bachelor's degree in IT at WGU</ul>
+  <ul>- 🌱 I’m currently learning ...Python, technical support, system administration</ul>
+  <ul>- 👯 I’m looking to collaborate on ...</ul>
+  <ul>- 🤔 I’m looking for help with ...</ul>
+  <ul>- 💬 Ask me about ...</ul>
+  <ul>- 📫 How to reach me: ...lynonsmith@gmail.com</ul>
+  <ul>- ⚡ Fun fact: ...</ul>
 
 
 
