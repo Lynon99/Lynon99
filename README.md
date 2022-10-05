@@ -9,14 +9,17 @@
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python]
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   
 - <b>PowerShell</b>
   - [Active Directory Bulk User Creation]
   
 - <b>Python</b>
+  - Time calculator 
+  - File managment automation
+  
 <h2> ⚡ Certifications ⚡: </h2>
--
+-ITIL V4
+-CompTia A+
   
 
 <h2> 🤳 Connect with me:</h2>
@@ -24,15 +27,16 @@
 [<img align="left" alt="Lynonsmith | LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/lynon-smith/
+[Website]: http://www.lynonsmith.com
 
 <!--
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on ...Bachelor's degree in IT at WGU
+- 🌱 I’m currently learning ...Python, technical support, system administration
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 📫 How to reach me: ...lynonsmith@gmail.com
 - ⚡ Fun fact: ...
 -->
