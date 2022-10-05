@@ -25,7 +25,7 @@
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="Lynonsmith | LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
+[<img align="left" alt="lynonsmith | Website width="24px" src="[http://](https://s3.amazonaws.com/lynonsmith.com/images/backgrounds/ProfilePic.jpg)">/][Website]
 [linkedin]: https://www.linkedin.com/in/lynon-smith/
 [Website]: http://www.lynonsmith.com
 
