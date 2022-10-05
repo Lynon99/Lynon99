@@ -29,7 +29,7 @@
 
 [<img align="left" alt="lynonsmith | Website" width="24px" src="https://s3.amazonaws.com/lynonsmith.com/images/backgrounds/ProfilePic.jpg" />][Website]
 
-[Website]: http://lynonsmith.com
+  <b>[Website]: http://lynonsmith.com</b>
 
   
   
