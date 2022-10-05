@@ -35,7 +35,7 @@
   
 
 <br>
-  <b>
+  </br>
 - 🔭 I’m currently working on ...Bachelor's degree in IT at WGU
 - 🌱 I’m currently learning ...Python, technical support, system administration
 - 👯 I’m looking to collaborate on ...
@@ -43,6 +43,6 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: ...lynonsmith@gmail.com
 - ⚡ Fun fact: ...
-  </b>
-  </br>
+
+
 
