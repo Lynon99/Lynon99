@@ -33,7 +33,7 @@
 [Website]: http://lynonsmith.com
 
   
-  
+ <br>
 
 
 - 🔭 I’m currently working on ...Bachelor's degree in IT at WGU
@@ -43,4 +43,4 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: ...lynonsmith@gmail.com
 - ⚡ Fun fact: ...
-
+</br>
