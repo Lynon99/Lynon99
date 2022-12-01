@@ -37,10 +37,10 @@
 <br>
   </br>
   <ul>- 🔭 I’m currently working on ...Bachelor's degree in IT at WGU</ul>
-  <ul>- 🌱 I’m currently learning ...Python, technical support, system administration</ul>
+  <ul>- 🌱 I’m currently learning ...Python, Web Development, System Administration</ul>
   <ul>- 👯 I’m looking to collaborate on ...</ul>
-  <ul>- 🤔 I’m looking for help with ...</ul>
-  <ul>- 💬 Ask me about ...</ul>
+  <ul>- 🤔 I’m looking for help with ...Web Development</ul>
+  <ul>- 💬 Ask me about ...Anything!</ul>
   <ul>- 📫 How to reach me: ...lynonsmith@gmail.com</ul>
   <ul>- ⚡ Fun fact: ...</ul>
 
