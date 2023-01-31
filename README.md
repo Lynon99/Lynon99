@@ -16,10 +16,13 @@
 - <b>Python</b>
   - Time calculator 
   - File managment automation
+  - Weather data scraper using Google
   
 <h2> ⚡ Certifications ⚡: </h2>
 -ITIL V4
 -CompTia A+
+-AWS Certified Cloud Practitioner
+-Linux Essentials (LPI)
   
 
 <h2> 🤳 Connect with me:</h2>
