@@ -21,6 +21,8 @@
 <h2> ⚡ Certifications ⚡: </h2>
 -ITIL V4
 -CompTia A+
+-CompTia Security+
+-CompTia Network+
 -AWS Certified Cloud Practitioner
 -Linux Essentials (LPI)
   
@@ -39,7 +41,7 @@
 
 <br>
   </br>
-  <ul>- 🔭 I’m currently working on ...Bachelor's degree in IT at WGU</ul>
+  <ul>- 🔭 I’m currently working on ...FreeCodeCamp's development course</ul>
   <ul>- 🌱 I’m currently learning ...Python, Web Development, System Administration</ul>
   <ul>- 👯 I’m looking to collaborate on ...</ul>
   <ul>- 🤔 I’m looking for help with ...Web Development</ul>
